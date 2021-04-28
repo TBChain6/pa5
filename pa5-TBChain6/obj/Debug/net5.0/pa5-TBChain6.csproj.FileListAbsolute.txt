@@ -1,0 +1,16 @@
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\pa5-TBChain6.exe
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\pa5-TBChain6.deps.json
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\pa5-TBChain6.runtimeconfig.json
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\pa5-TBChain6.runtimeconfig.dev.json
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\pa5-TBChain6.dll
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\ref\pa5-TBChain6.dll
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\bin\Debug\net5.0\pa5-TBChain6.pdb
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.AssemblyInfo.cs
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.dll
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\ref\pa5-TBChain6.dll
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.pdb
+C:\Users\thoma\Desktop\MIS\pa5-TBChain6\obj\Debug\net5.0\pa5-TBChain6.genruntimeconfig.cache
